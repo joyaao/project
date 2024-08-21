@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(90deg, yellow 0%, blue 100%);
+}
+
+
+.testing {
+    text-align: center;
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+    letter-spacing: 13px;
+    text-decoration: underline;
+
+
+
+
+
+}
+#idjohan:hover{
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+
+
+

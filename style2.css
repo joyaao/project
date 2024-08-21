@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.mainContainer{
+    width: 720px;
+    height: 480px;
+    border: 1px solid;
+
+    /* CSS Flexbox ;
+    untuk menyusun, mengatur, mensejajarkan, mendistribusikan, 
+    item (Element HTML) didalam Container (div) */
+
+    /* */ 
+    /* */ 
+    /* */ 
+    /* */ 
+    /* */ 
+    /* 1
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end; */
+    /* 3
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+      */ 
+    /* 2
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: start;
+    align-items: end; */ 
+}
+
+
+.item1{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+
+}
+.item2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
+.item3{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+
+}

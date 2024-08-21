@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* CSS BOX model */
+/* margin : area di luar border */
+/* Border : Garis tepi */
+/* Padding : Area antara content dan border */
+/* conten: Element HTML*/
+.mainContainer{
+    width: 480px;
+    height: 480px;
+    border: 1px solid;
+
+    /*   value 2 */
+    /*   atas dan bawah , kiri dan kanan*/
+    /*   value 4 */
+    /*   atas kanan bawah kiri */
+    /*   atas dan bawah , kiri dan kanan*/
+    margin: 200px;
+    padding: 200px;
+}
